@@ -238,14 +238,6 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;HQ in&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;2015&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="356" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-82" target="7CW_YYzsIVK1RDrf5qW_-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="542" y="436" />
-              <mxPoint x="542" y="383" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-82" target="7CW_YYzsIVK1RDrf5qW_-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -267,13 +259,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-85" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hyperparameter optimization&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584.9999999999999" y="361" width="108.12" height="44" as="geometry" />
+          <mxGeometry x="584.9999999999999" y="360" width="108.12" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-87" value="&lt;span lang=&quot;EN-US&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;2010&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="411" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-88" value="&lt;font face=&quot;Times New Roman&quot;&gt;A well-trained Stacking model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="753" y="355" width="100" height="54" as="geometry" />
+          <mxGeometry x="760" y="355" width="93" height="54" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-90" value="&lt;font face=&quot;Times New Roman&quot;&gt;Analysis of HQ impact mechanisms&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="584.9999999999999" y="413.87" width="108.12" height="44" as="geometry" />
