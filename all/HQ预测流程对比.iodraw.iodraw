@@ -59,8 +59,8 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015 Land-use data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="337" width="207.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Land-use drivers&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="201" width="77.5" height="70" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;HQ influencing factors&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="77.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
