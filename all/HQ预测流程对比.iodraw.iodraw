@@ -109,7 +109,7 @@
           <mxGeometry x="353.75" y="130" width="326.25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;CA-Markov/ CLUE-S/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;FLUS/&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;PLUS&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="161" width="90" height="99" as="geometry" />
+          <mxGeometry x="379" y="150.5" width="70" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
