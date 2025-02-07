@@ -28,8 +28,8 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Accessibility&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="191" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-10" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236" y="230" width="40" height="15" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-10" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="233" y="223" width="40" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
