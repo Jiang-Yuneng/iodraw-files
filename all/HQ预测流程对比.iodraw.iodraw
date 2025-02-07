@@ -156,8 +156,8 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-45" value="&lt;span lang=&quot;EN-US&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Parameter settings&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433" y="178" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;Accuracy Verification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="175.25" width="60" height="49.5" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;Accuracy Verification&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;(2015)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="175.25" width="100" height="49.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
