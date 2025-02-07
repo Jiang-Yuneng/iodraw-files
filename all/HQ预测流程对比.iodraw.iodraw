@@ -50,7 +50,7 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="297" as="sourcePoint" />
-            <mxPoint x="1152.2222222222222" y="296" as="targetPoint" />
+            <mxPoint x="1050" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Land-use Prediction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -297,7 +297,7 @@
           <mxGeometry x="885" y="315" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-102" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;HQ predictions (2020)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="910" y="391" width="110" height="42.75" as="geometry" />
+          <mxGeometry x="910" y="404.13" width="110" height="42.75" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-88" target="7CW_YYzsIVK1RDrf5qW_-102">
           <mxGeometry relative="1" as="geometry" />
