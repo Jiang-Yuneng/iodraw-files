@@ -209,7 +209,7 @@
           <mxGeometry x="900" y="130" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-61" value="&lt;font face=&quot;Times New Roman&quot;&gt;InVEST&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="152" width="60" height="49.5" as="geometry" />
+          <mxGeometry x="910" y="160" width="110" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-63" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;HQ predictions (2020)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="910" y="227.38" width="110" height="42.75" as="geometry" />
