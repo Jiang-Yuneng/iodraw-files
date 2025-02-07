@@ -257,8 +257,8 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-87" value="&lt;span lang=&quot;EN-US&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;2010&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="411" width="40" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-88" value="&lt;font face=&quot;Times New Roman&quot;&gt;A Stacking model characterizing the relationship between factors and HQ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="366" width="100" height="80" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-88" value="&lt;font face=&quot;Times New Roman&quot;&gt;A well-trained Stacking model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="356" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
