@@ -7,9 +7,6 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#EFF4FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="326" width="240" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Data Preparation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="76.25" y="90" width="240" height="30" as="geometry" />
         </mxCell>
@@ -56,30 +53,39 @@
             <mxPoint x="870" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015 Land-use data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="337" width="207.5" height="30" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Land-use Prediction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-18" target="7CW_YYzsIVK1RDrf5qW_-20">
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="326" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;" vertex="1" parent="7CW_YYzsIVK1RDrf5qW_-28">
+          <mxGeometry width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015 Land-use data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7CW_YYzsIVK1RDrf5qW_-28">
+          <mxGeometry x="12.5" y="11" width="207.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="7CW_YYzsIVK1RDrf5qW_-28" source="7CW_YYzsIVK1RDrf5qW_-18" target="7CW_YYzsIVK1RDrf5qW_-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="425" />
-              <mxPoint x="210" y="453" />
+              <mxPoint x="130" y="99" />
+              <mxPoint x="130" y="127" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-18" target="7CW_YYzsIVK1RDrf5qW_-22">
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7CW_YYzsIVK1RDrf5qW_-28" source="7CW_YYzsIVK1RDrf5qW_-18" target="7CW_YYzsIVK1RDrf5qW_-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="425" />
-              <mxPoint x="210" y="399" />
+              <mxPoint x="130" y="99" />
+              <mxPoint x="130" y="73" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;HQ influencing factors&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="80" height="70" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;2010/2015&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;HQ influencing factors&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7CW_YYzsIVK1RDrf5qW_-28">
+          <mxGeometry x="140" y="64" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="92.5" y="391" width="100" height="69" as="geometry" />
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-19" value="" style="group" vertex="1" connectable="0" parent="7CW_YYzsIVK1RDrf5qW_-28">
+          <mxGeometry x="12.5" y="65" width="100" height="69" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-20" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; color: rgb(31, 31, 31); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;Environment&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="7CW_YYzsIVK1RDrf5qW_-19">
           <mxGeometry y="49" width="100" height="20" as="geometry" />
@@ -92,9 +98,6 @@
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-23" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7CW_YYzsIVK1RDrf5qW_-19">
           <mxGeometry x="27" y="32" width="40" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="7CW_YYzsIVK1RDrf5qW_-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Land-use Prediction&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="90" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
