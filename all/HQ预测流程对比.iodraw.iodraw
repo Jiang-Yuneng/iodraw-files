@@ -196,6 +196,9 @@
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;No&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="231" width="30" height="23.5" as="geometry" />
         </mxCell>
+        <mxCell id="7CW_YYzsIVK1RDrf5qW_-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7CW_YYzsIVK1RDrf5qW_-54" target="7CW_YYzsIVK1RDrf5qW_-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-54" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Multi-scenario land-use prediction&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;(2020)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="760" y="172.63" width="93" height="54.75" as="geometry" />
         </mxCell>
@@ -209,10 +212,10 @@
           <mxGeometry x="900" y="130" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-61" value="&lt;font face=&quot;Times New Roman&quot;&gt;InVEST&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="160" width="110" height="41.5" as="geometry" />
+          <mxGeometry x="910" y="150.5" width="110" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-63" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;HQ predictions (2020)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="910" y="227.38" width="110" height="42.75" as="geometry" />
+          <mxGeometry x="910" y="221.38" width="110" height="42.75" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="353.75" y="345" width="516.25" height="140" as="geometry" />
