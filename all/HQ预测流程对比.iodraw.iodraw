@@ -20,10 +20,10 @@
           <mxGeometry x="92.5" y="190" width="97.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-6" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; color: rgb(31, 31, 31); text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Altitude&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="100" height="20" as="geometry" />
+          <mxGeometry x="200" y="240" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Elevation&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="215" width="100" height="20" as="geometry" />
+          <mxGeometry x="210" y="200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7CW_YYzsIVK1RDrf5qW_-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Accessibility&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="100" height="20" as="geometry" />
